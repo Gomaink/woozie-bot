@@ -1,4 +1,4 @@
-[![samp-include](https://img.shields.io/badge/sa--mp-bot-2f2f2f.svg?style=for-the-badge)]
+![samp-bot](https://img.shields.io/badge/sa--mp-bot-2f2f2f.svg?style=for-the-badge)
 
 > Bot ajudante direcionado ao suporte a linguagem Pawn para SA:MP.
 
